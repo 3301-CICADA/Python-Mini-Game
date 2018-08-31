@@ -2,7 +2,7 @@
 # control flow
 # if statements
 
-is_game_over = False
+is_game_over = True
 p_0_x_pos = 1
 e_0_x_pos = 3
 e_1_x_pos = 5
